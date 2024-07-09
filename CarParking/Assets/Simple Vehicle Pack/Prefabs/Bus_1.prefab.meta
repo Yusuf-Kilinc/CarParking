@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc4245223e4122142bb14239d44230ef
+timeCreated: 1498052180
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97669
+  packageName: Simple Cars Pack
+  packageVersion: 1.1
+  assetPath: Assets/Simple Vehicle Pack/Prefabs/Bus_1.prefab
+  uploadId: 296029

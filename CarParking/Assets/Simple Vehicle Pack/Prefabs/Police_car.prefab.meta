@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f463242ba59e68243b7a693d4f0cfc18
+timeCreated: 1498053084
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97669
+  packageName: Simple Cars Pack
+  packageVersion: 1.1
+  assetPath: Assets/Simple Vehicle Pack/Prefabs/Police_car.prefab
+  uploadId: 296029
