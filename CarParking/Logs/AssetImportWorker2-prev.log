@@ -1,0 +1,409 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.14f1 (eeca29774eb5) revision 15649321'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'tr' Physical Memory: 16296 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Unity\indirmeler\one\2023.2.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Unity/Projeler/CarParking/CarParking/CarParking
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+50370
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: D:/Unity/Projeler/CarParking/CarParking/CarParking
+D:/Unity/Projeler/CarParking/CarParking/CarParking
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [16872] Host "[IP] 192.168.1.106 [Port] 0 [Flags] 2 [Guid] 1337889405 [EditorId] 1337889405 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-OFLH40B) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [16872] Host "[IP] 192.168.1.106 [Port] 0 [Flags] 2 [Guid] 1337889405 [EditorId] 1337889405 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-OFLH40B) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized MultithreadedJobDispatcher with 5 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 1.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.14f1 (eeca29774eb5)
+[Subsystems] Discovering subsystems at path D:/Unity/indirmeler/one/2023.2.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/Projeler/CarParking/CarParking/CarParking/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
+    Vendor:   NVIDIA
+    VRAM:     8024 MB
+    Driver:   32.0.15.5612
+Initialize mono
+Mono path[0] = 'D:/Unity/indirmeler/one/2023.2.14f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/indirmeler/one/2023.2.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Unity/indirmeler/one/2023.2.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56620
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/indirmeler/one/2023.2.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/Unity/indirmeler/one/2023.2.14f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.307345 seconds.
+- Loaded All Assemblies, in  8.080 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 260 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.619 seconds
+Domain Reload Profiling: 8699ms
+	BeginReloadAssembly (5955ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (558ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (348ms)
+	LoadAllAssembliesAndSetupDomain (1210ms)
+		LoadAssemblies (5957ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1204ms)
+			TypeCache.Refresh (1203ms)
+				TypeCache.ScanAssembly (996ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (619ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (575ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (358ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (163ms)
+			ProcessInitializeOnLoadMethodAttributes (47ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image D:\Unity\Projeler\CarParking\CarParking\CarParking\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\Projeler\CarParking\CarParking\CarParking\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  4.941 seconds
+Refreshing native plugins compatible for Editor in 1.24 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.748 seconds
+Domain Reload Profiling: 5688ms
+	BeginReloadAssembly (330ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (4526ms)
+		LoadAssemblies (3725ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (948ms)
+			TypeCache.Refresh (921ms)
+				TypeCache.ScanAssembly (841ms)
+			BuildScriptInfoCaches (21ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (748ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (527ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (42ms)
+			ProcessInitializeOnLoadAttributes (435ms)
+			ProcessInitializeOnLoadMethodAttributes (20ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3142 unused Assets / (0.9 MB). Loaded Objects now: 3718.
+Memory consumption went from 113.7 MB to 112.8 MB.
+Total: 5.775600 ms (FindLiveObjects: 0.633700 ms CreateObjectMapping: 0.236800 ms MarkObjects: 3.958500 ms  DeleteObjects: 0.946000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 49205.296941 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Modeller/zemin.fbx
+  artifactKey: Guid(0e128dbaf4700154f88d895c9f492095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Modeller/zemin.fbx using Guid(0e128dbaf4700154f88d895c9f492095) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3008974cca8e588a983a471d94281f81') in 0.4082482 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/images/mavi.png
+  artifactKey: Guid(bfea56883293b9b4c8aedefe09f72bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/images/mavi.png using Guid(bfea56883293b9b4c8aedefe09f72bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ea0eb6463ae75bf97e82d6fceab35839') in 0.0202607 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Modeller/elmas.fbx
+  artifactKey: Guid(de139cbbd3b688640ad3023f3a6c4c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Modeller/elmas.fbx using Guid(de139cbbd3b688640ad3023f3a6c4c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '99dbd9a734d271fc3a561741349e2e97') in 0.0143315 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/images/Elmas.png
+  artifactKey: Guid(3e513dd6d7c057d4f9987397b51cb916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/images/Elmas.png using Guid(3e513dd6d7c057d4f9987397b51cb916) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5449ea2776e3eb03ee5a78b87352c201') in 0.0114841 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Modeller/platform1.fbx
+  artifactKey: Guid(edff44fce04a68b43bc0a293cc142e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Modeller/platform1.fbx using Guid(edff44fce04a68b43bc0a293cc142e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9532f128cab0c044e692e47513ee614c') in 0.0558081 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Import Request.
+  Time since last request: 414.999017 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Mat
+  artifactKey: Guid(d8ffc9617ae32bb4293996423a933d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Mat using Guid(d8ffc9617ae32bb4293996423a933d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd4e5d8dfaf0f967e5856d479420af79e') in 0.0006448 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.465903 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Mat/New Material.mat
+  artifactKey: Guid(ef7ebfd276bf66b4bbc5c0a7e02877e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Mat/New Material.mat using Guid(ef7ebfd276bf66b4bbc5c0a7e02877e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '86da832be63fa87e0f5fef88180fb686') in 0.0256774 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.083926 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Mat/New Material.mat
+  artifactKey: Guid(ef7ebfd276bf66b4bbc5c0a7e02877e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Mat/New Material.mat using Guid(ef7ebfd276bf66b4bbc5c0a7e02877e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9aeb73f443dcf2492cd89dba1712999a') in 0.0766184 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.745756 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Mat/Zemin.mat
+  artifactKey: Guid(ef7ebfd276bf66b4bbc5c0a7e02877e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Mat/Zemin.mat using Guid(ef7ebfd276bf66b4bbc5c0a7e02877e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd14e19886a5d55266276a5c1cb736636') in 0.011948 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.334403 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Mat/Zemin Serit.mat
+  artifactKey: Guid(e86907d9c430f8742a2735e56f3f8435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Mat/Zemin Serit.mat using Guid(e86907d9c430f8742a2735e56f3f8435) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e8cb345c4e4f56442e460bfce70075c4') in 0.0108962 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.112968 seconds.
+  path: Assets/Simple Vehicle Pack/Materials/Bus_1.mat
+  artifactKey: Guid(39cfffc7cdb08644ca972fb9d7f6b125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Vehicle Pack/Materials/Bus_1.mat using Guid(39cfffc7cdb08644ca972fb9d7f6b125) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ebab87f994bf27b89927c12b30bb843') in 0.1804697 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Simple Vehicle Pack/Materials/Cars_1.mat
+  artifactKey: Guid(d1609d52f4f81da40955e6165cb60e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Vehicle Pack/Materials/Cars_1.mat using Guid(d1609d52f4f81da40955e6165cb60e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ac7f95990fa5c9f35e857a3cef9a3376') in 0.0427923 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.230574 seconds.
+  path: Assets/Simple Vehicle Pack/Models/bus.FBX
+  artifactKey: Guid(7f4f24cb528cb884a874e5266f87c831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Vehicle Pack/Models/bus.FBX using Guid(7f4f24cb528cb884a874e5266f87c831) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '73b98fc508cfa3455a3dcba36d09543b') in 0.0337938 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Simple Vehicle Pack/Models/road_4.FBX
+  artifactKey: Guid(faa37065c55ee5e46ab6e63ac549f8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Vehicle Pack/Models/road_4.FBX using Guid(faa37065c55ee5e46ab6e63ac549f8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '028e2f7e875053c0492e870291f5239e') in 0.0143151 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Simple Vehicle Pack/Models/car_2.FBX
+  artifactKey: Guid(209fadb19c7c1f149830b00ad9d0c764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Vehicle Pack/Models/car_2.FBX using Guid(209fadb19c7c1f149830b00ad9d0c764) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f5bbfc65c1cd81ef8d4049a1e191791e') in 0.0320796 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.455955 seconds.
+  path: Assets/Simple Vehicle Pack/Prefabs/Bus_1.prefab
+  artifactKey: Guid(fc4245223e4122142bb14239d44230ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Vehicle Pack/Prefabs/Bus_1.prefab using Guid(fc4245223e4122142bb14239d44230ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cfe260e540f7ca2eb3b459071a8a6431') in 0.0158883 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 33
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Simple Vehicle Pack/Prefabs/Car_3.prefab
+  artifactKey: Guid(512151c1530b99343a884b12ee9c5e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Vehicle Pack/Prefabs/Car_3.prefab using Guid(512151c1530b99343a884b12ee9c5e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5ed2a9fb6ae7a1ee14832b975c055aa5') in 0.0186037 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 33
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Simple Vehicle Pack/Prefabs/Car_4.prefab
+  artifactKey: Guid(ab26596a331d7ee43a3e9d29e2be9f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Vehicle Pack/Prefabs/Car_4.prefab using Guid(ab26596a331d7ee43a3e9d29e2be9f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b9350d1473ded50358991e644e61ece') in 0.0264329 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 33
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.887595 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Mat/Zemin Serit.mat
+  artifactKey: Guid(e86907d9c430f8742a2735e56f3f8435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Mat/Zemin Serit.mat using Guid(e86907d9c430f8742a2735e56f3f8435) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e2a3c40f2aa138b7fc466d1b995e7564') in 0.0111335 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.710387 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Mat/Zemin Serit 1.mat
+  artifactKey: Guid(89e47a1b311b03645abf211faaa8c3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Mat/Zemin Serit 1.mat using Guid(89e47a1b311b03645abf211faaa8c3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e9a33413e4a549c32bbc7c6b055519c4') in 0.0088362 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.018038 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Mat/Plat1.mat
+  artifactKey: Guid(89e47a1b311b03645abf211faaa8c3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Mat/Plat1.mat using Guid(89e47a1b311b03645abf211faaa8c3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0f0ae89ea153723c419cf1533e24bc4a') in 0.0868723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.115687 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Mat/Plat1 1.mat
+  artifactKey: Guid(8a251efae1fccd1428e2e2cb5919c858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Mat/Plat1 1.mat using Guid(8a251efae1fccd1428e2e2cb5919c858) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd031e2d8ee94e46edf791621a5f755c6') in 0.0060584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.854800 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Mat/Plat2.mat
+  artifactKey: Guid(8a251efae1fccd1428e2e2cb5919c858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Mat/Plat2.mat using Guid(8a251efae1fccd1428e2e2cb5919c858) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '53d67d35052d808aa392c790798abd7c') in 0.007215 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.442942 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Mat/images
+  artifactKey: Guid(08cd66d16d04fb04fa341a72ee5c803f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Mat/images using Guid(08cd66d16d04fb04fa341a72ee5c803f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7faf29a544ac54e1c32245ccf7a2652a') in 0.0004718 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.457585 seconds.
+  path: Assets/CarParkingBaslangicDosyalari/Mat/Plat1.mat
+  artifactKey: Guid(89e47a1b311b03645abf211faaa8c3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CarParkingBaslangicDosyalari/Mat/Plat1.mat using Guid(89e47a1b311b03645abf211faaa8c3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49f392cbecff09cac607e8269f53ba9c') in 0.015852 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 303.913828 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '826ae977e454d1d02a29e76427c02bc6') in 0.0010695 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+

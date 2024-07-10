@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - OrtaGobek
+  - Platform
+  - Parking
+  - Araba
+  - "DurusNoktas\u0131"
   layers:
   - Default
   - TransparentFX
